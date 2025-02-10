@@ -2,6 +2,7 @@
 
 JoSAA Counselling 2025 is an important process for candidates looking for admission to Engineering/Technical institutions in India like IITs, NITs, IIITs, IIEST, SPAs, and other Government-Funded Technical Institutions (GFTIs). To participate in this process, candidates must meet specific eligibility requirements, which are different for each category depending on the type of institution and program they aim to join. Below is a detailed explanation of the eligibility criteria for different categories of institutions under JoSAA.
 
+![JoSAA 2025 - कौन पात्र है?](https://files.oaiusercontent.com/file-QwtWGFCxwtm4h5HSGx7AXe?se=2025-02-10T08%3A17%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3DWho%2520is%2520eligible%2520for%2520JoSAA%2520counselling.jpg&sig=S4xy0T2gCXiGSXCYAFFsthfOBrOFq4MKhqLvHSe9MAA%3D)
 
 # Table of Contents
 
