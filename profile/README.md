@@ -1,8 +1,8 @@
 # Who is eligible for JoSAA counselling?
 
-JoSAA Counselling 2025 is an important process for candidates looking for admission to Engineering/Technical institutions in India like IITs, NITs, IIITs, IIEST, SPAs, and other Government-Funded Technical Institutions (GFTIs). To participate in this process, candidates must meet specific eligibility requirements, which are different for each category depending on the type of institution and program they aim to join. Below is a detailed explanation of the eligibility criteria for different categories of institutions under JoSAA.
+JoSAA Counselling 2025 is an important process for candidates looking for admission to Engineering/Technical institutions in India like IITs, NITs, IIITs, IIEST, SPAs, and other Government-Funded Technical Institutions (GFTIs). To participate in this process, candidates must meet specific eligibility requirements, which are different for each category depending on the type of institution and program they aim to join. Below is a detailed explanation of the eligibility criteria for different categories of institutions under [JoSAA](https://josaa.nic.in/).
 
-![JoSAA 2025 - कौन पात्र है?](https://files.oaiusercontent.com/file-QwtWGFCxwtm4h5HSGx7AXe?se=2025-02-10T08%3A17%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3DWho%2520is%2520eligible%2520for%2520JoSAA%2520counselling.jpg&sig=S4xy0T2gCXiGSXCYAFFsthfOBrOFq4MKhqLvHSe9MAA%3D)
+![Who is eligible for JoSAA counselling](https://files.oaiusercontent.com/file-QwtWGFCxwtm4h5HSGx7AXe?se=2025-02-10T08%3A17%3A36Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3DWho%2520is%2520eligible%2520for%2520JoSAA%2520counselling.jpg&sig=S4xy0T2gCXiGSXCYAFFsthfOBrOFq4MKhqLvHSe9MAA%3D)
 
 # Table of Contents
 
@@ -15,7 +15,7 @@ JoSAA Counselling 2025 is an important process for candidates looking for admiss
 - 
 ## Key Highlight
 
-Clearing any of the JEE Main entrance examination or JEE Advanced exam doesn’t guarantee one the opportunity to join any of the institutes admitted through JoSAA counselling. Both institutions and programs have their requirements, by which candidates must comply in order to get a seat. This includes meeting the academic eligibility list, the rank requirements, and other conditions as may apply to the category of candidate to be admitted. In addition, candidates require passing all stages of the counselling process and providing necessary documents as well as paying the required fees.
+Clearing any of the JEE Main entrance examination or JEE Advanced exam doesn’t guarantee one the opportunity to join any of the institutes admitted through [JoSAA counselling](https://josaacounselling2025.info/). Both institutions and programs have their requirements, by which candidates must comply in order to get a seat. This includes meeting the academic eligibility list, the rank requirements, and other conditions as may apply to the category of candidate to be admitted. In addition, candidates require passing all stages of the counselling process and providing necessary documents as well as paying the required fees.
 
 Candidates who are from reserved/special categories, i.e., Persons with Disabilities (PwD) may require additional documentation. For example, candidates in the PwD category who do not possess valid UDID cards are asked to come for physical verification at designated reporting centers to prove their fitness to gain admission. Any omission in any of the requirements or failure in the verification process would lead to disqualification in the counselling process.
 
